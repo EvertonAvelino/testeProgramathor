@@ -1,0 +1,84 @@
+[
+  {
+    rank: '1',
+    name: 'Alan Shearer',
+    nationality: 'England',
+    goals: '260'
+  },
+  {
+    rank: '2',
+    name: 'Wayne Rooney',
+    nationality: 'England',
+    goals: '208'
+  },
+  {
+    rank: '3',
+    name: 'Andrew Cole',
+    nationality: 'England',
+    goals: '187'
+  },
+  {
+    rank: '5',
+    name: 'Frank Lampard',
+    nationality: 'England',
+    goals: '177'
+  },
+  {
+    rank: '7',
+    name: 'Robbie Fowler',
+    nationality: 'England',
+    goals: '163'
+  },
+  {
+    rank: '8',
+    name: 'Jermain Defoe',
+    nationality: 'England',
+    goals: '162'
+  },
+  {
+    rank: '9',
+    name: 'Michael Owen',
+    nationality: 'England',
+    goals: '150'
+  },
+  {
+    rank: '10',
+    name: 'Les Ferdinand',
+    nationality: 'England',
+    goals: '149'
+  },
+  {
+    rank: '11',
+    name: 'Teddy Sheringham',
+    nationality: 'England',
+    goals: '146'
+  },
+  {
+    rank: '13',
+    name: 'Harry Kane',
+    nationality: 'England',
+    goals: '136'
+  },
+  {
+    rank: '18',
+    name: 'Steven Gerrard',
+    nationality: 'England',
+    goals: '120'
+  },
+  {
+    rank: '19',
+    name: 'Ian Wright',
+    nationality: 'England',
+    goals: '113'
+  }
+]
+nacionalidades: 
+
+Argentina : 37
+Netherlands : 113
+Netherlands : 127
+Ireland : 128
+France : 130
+Trinidad And Tobago : 131
+Belgium : 144
+England : 156
